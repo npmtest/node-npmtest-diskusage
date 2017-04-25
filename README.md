@@ -1,8 +1,8 @@
 # npmtest-diskusage
 
-test coverage for  [diskusage (v0.2.1)](https://github.com/jduncanator/node-diskusage)  [![npm package](https://img.shields.io/npm/v/npmtest-diskusage.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-diskusage) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-diskusage.svg)](https://travis-ci.org/npmtest/node-npmtest-diskusage)
+#### basic test coverage for  [diskusage (v0.2.1)](https://github.com/jduncanator/node-diskusage)  [![npm package](https://img.shields.io/npm/v/npmtest-diskusage.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-diskusage) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-diskusage.svg)](https://travis-ci.org/npmtest/node-npmtest-diskusage)
 
-Get total diskspace and free diskspace using bindings around platform specific calls.
+#### Get total diskspace and free diskspace using bindings around platform specific calls.
 
 [![NPM](https://nodei.co/npm/diskusage.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/diskusage)
 
@@ -10,7 +10,7 @@ Get total diskspace and free diskspace using bindings around platform specific c
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-diskusage/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-diskusage/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-diskusage/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-diskusage/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-diskusage/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-diskusage/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-diskusage/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-diskusage/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-diskusage/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-diskusage/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-diskusage/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-diskusage/build/coverage.html/index.html)
 
@@ -82,7 +82,8 @@ Get total diskspace and free diskspace using bindings around platform specific c
         "install": "node-gyp rebuild"
     },
     "typings": "index.d.ts",
-    "version": "0.2.1"
+    "version": "0.2.1",
+    "bin": {}
 }
 ```
 

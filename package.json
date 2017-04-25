@@ -1,6 +1,6 @@
 {
     "author": "kai zhu <kaizhu256@gmail.com>",
-    "description": "test coverage for  [diskusage (v0.2.1)](https://github.com/jduncanator/node-diskusage)  [![npm package](https://img.shields.io/npm/v/npmtest-diskusage.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-diskusage) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-diskusage.svg)](https://travis-ci.org/npmtest/node-npmtest-diskusage)",
+    "description": "#### basic test coverage for  [diskusage (v0.2.1)](https://github.com/jduncanator/node-diskusage)  [![npm package](https://img.shields.io/npm/v/npmtest-diskusage.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-diskusage) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-diskusage.svg)](https://travis-ci.org/npmtest/node-npmtest-diskusage)",
     "devDependencies": {
         "diskusage": "*",
         "electron-lite": "kaizhu256/node-electron-lite#alpha",
